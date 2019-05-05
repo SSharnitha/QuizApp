@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="quiz">
+        <item name="android:textColor">#FDFDFA</item>
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:textSize">18dp</item>
+        <item name="android:scrollbars">vertical</item>
+    </style>
+
+    <style name="option">
+        <item name="android:textColor">#E9E7E4</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:padding">3dp</item>
+        <item name="android:textSize">20dp</item>
+    </style>
+
+</resources>

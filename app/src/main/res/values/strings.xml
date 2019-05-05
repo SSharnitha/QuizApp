@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    //Database Nodes
+    <string name="dbnode_users">users</string>
+    <string name="dbnode_phy">physics</string>
+    <string name="dbnode_phy_hard">physics_hard</string>
+    <string name="dbnode_che">chemistry</string>
+    <string name="dbnode_che_hard">chemistry_hard</string>
+    <string name="dbnode_bio">biology</string>
+    <string name="dbnode_bio_hard">biology_hard</string>
+
+    //Database Fields
+    <string name="field_name">name</string>
+    <string name="field_user_id">user_id</string>
+    <string name="field_phy_main_qno">phy_qno</string>
+    <string name="field_che_main_qno">che_qno</string>
+    <string name="field_bio_main_qno">bio_qno</string>
+    <string name="field_phy_score">phy_score</string>
+    <string name="field_che_score">che_score</string>
+    <string name="field_bio_score">bio_score</string>
+
+    <string name="field_question_number">question_number</string>
+    <string name="field_question">question</string>
+    <string name="field_optiona">optiona</string>
+    <string name="field_optionb">optionb</string>
+    <string name="field_optionc">optionc</string>
+    <string name="field_optiond">optiond</string>
+    <string name="field_correct_answer">correct_answer</string>
+    <string name="field_solution">solution</string>
+</resources>
